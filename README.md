@@ -10,7 +10,7 @@ The color gradation depicted for each country implys the GDP per capita movement
 <img width="1061" alt="Στιγμιότυπο 2022-03-25, 14 47 46" src="https://user-images.githubusercontent.com/83840553/160144684-e8dd199d-f271-4554-b367-7f6401cf2c29.png">
 
 
-# second Graph (dashboard)
+# Second Graph (dashboard)
 Original Dataset: Supported Dataset: 'https://www.kaggle.com/hamzael1/world-countries-income-class-2020'
 
 Shows how the Birthrate, Deathrate and Infant Mortality are changing depending on different general predictors for each country.
